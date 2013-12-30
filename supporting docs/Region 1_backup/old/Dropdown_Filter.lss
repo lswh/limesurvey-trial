@@ -1,0 +1,1571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+ <LimeSurveyDocType>Survey</LimeSurveyDocType>
+ <DBVersion>155.5</DBVersion>
+ <languages>
+  <language>fr</language>
+ </languages>
+ <answers>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>code</fieldname>
+   <fieldname>answer</fieldname>
+   <fieldname>assessment_value</fieldname>
+   <fieldname>sortorder</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[A]]></code>
+    <answer><![CDATA[Agriculture, sylviculture et pêche]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[B]]></code>
+    <answer><![CDATA[Industries extractives]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[C]]></code>
+    <answer><![CDATA[Industrie manufacturière]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[D]]></code>
+    <answer><![CDATA[Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[4]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[E]]></code>
+    <answer><![CDATA[Production et distribution d'eau ; assainissement, gestion des déchets et dépollution]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[5]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[F]]></code>
+    <answer><![CDATA[Construction]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[6]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[G]]></code>
+    <answer><![CDATA[Commerce ; réparation d'automobiles et de motocycles]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[7]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[H]]></code>
+    <answer><![CDATA[Transports et entreposage]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[8]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[I]]></code>
+    <answer><![CDATA[Hébergement et restauration]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[9]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[J]]></code>
+    <answer><![CDATA[Information et communication]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[10]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[K]]></code>
+    <answer><![CDATA[Activités financières et d'assurance]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[11]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[L]]></code>
+    <answer><![CDATA[Activités immobilières]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[12]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[M]]></code>
+    <answer><![CDATA[Activités spécialisées, scientifiques et techniques]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[13]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[N]]></code>
+    <answer><![CDATA[Activités de services administratifs et de soutien]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[14]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[O]]></code>
+    <answer><![CDATA[Administration publique]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[15]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[P]]></code>
+    <answer><![CDATA[Enseignement]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[16]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[Q]]></code>
+    <answer><![CDATA[Santé humaine et action sociale]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[17]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[R]]></code>
+    <answer><![CDATA[Arts, spectacles et activités récréatives]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[18]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[S]]></code>
+    <answer><![CDATA[Autres activités de services]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[19]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[T]]></code>
+    <answer><![CDATA[Activités des ménages en tant qu'employeurs ; activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[20]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <code><![CDATA[U]]></code>
+    <answer><![CDATA[Activités extra-territoriales]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[21]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[A01]]></code>
+    <answer><![CDATA[Culture et production animale, chasse et services annexes]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[A02]]></code>
+    <answer><![CDATA[Sylviculture et exploitation forestière]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[A03]]></code>
+    <answer><![CDATA[Pêche et aquaculture]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[B05]]></code>
+    <answer><![CDATA[Extraction de houille et de lignite]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[4]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[B06]]></code>
+    <answer><![CDATA[Extraction d'hydrocarbures]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[5]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[B07]]></code>
+    <answer><![CDATA[Extraction de minerais métalliques]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[6]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[B08]]></code>
+    <answer><![CDATA[Autres industries extractives]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[7]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[B09]]></code>
+    <answer><![CDATA[Services de soutien aux industries extractives]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[8]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C10]]></code>
+    <answer><![CDATA[Industries alimentaires]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[9]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C11]]></code>
+    <answer><![CDATA[Fabrication de boissons]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[10]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C12]]></code>
+    <answer><![CDATA[Fabrication de produits à base de tabac]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[11]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C13]]></code>
+    <answer><![CDATA[Fabrication de textiles]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[12]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C14]]></code>
+    <answer><![CDATA[Industrie de l'habillement]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[13]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C15]]></code>
+    <answer><![CDATA[Industrie du cuir et de la chaussure]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[14]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C16]]></code>
+    <answer><![CDATA[Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles ; fabrication d'articles en vannerie et sparterie]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[15]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C17]]></code>
+    <answer><![CDATA[Industrie du papier et du carton]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[16]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C18]]></code>
+    <answer><![CDATA[Imprimerie et reproduction d'enregistrements]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[17]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C19]]></code>
+    <answer><![CDATA[Cokéfaction et raffinage]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[18]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C20]]></code>
+    <answer><![CDATA[Industrie chimique]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[19]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C21]]></code>
+    <answer><![CDATA[Industrie pharmaceutique]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[20]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C22]]></code>
+    <answer><![CDATA[Fabrication de produits en caoutchouc et en plastique]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[21]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C23]]></code>
+    <answer><![CDATA[Fabrication d'autres produits minéraux non métalliques]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[22]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C24]]></code>
+    <answer><![CDATA[Métallurgie]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[23]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C25]]></code>
+    <answer><![CDATA[Fabrication de produits métalliques, à l'exception des machines et des équipements]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[24]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C26]]></code>
+    <answer><![CDATA[Fabrication de produits informatiques, électroniques et optiques]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[25]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C27]]></code>
+    <answer><![CDATA[Fabrication d'équipements électriques]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[26]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C28]]></code>
+    <answer><![CDATA[Fabrication de machines et équipements n.c.a.]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[27]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C29]]></code>
+    <answer><![CDATA[Industrie automobile]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[28]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C30]]></code>
+    <answer><![CDATA[Fabrication d'autres matériels de transport]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[29]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C31]]></code>
+    <answer><![CDATA[Fabrication de meubles]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[30]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C32]]></code>
+    <answer><![CDATA[Autres industries manufacturières]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[31]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[C33]]></code>
+    <answer><![CDATA[Réparation et installation de machines et d'équipements]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[32]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[D35]]></code>
+    <answer><![CDATA[Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[33]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[E36]]></code>
+    <answer><![CDATA[Captage, traitement et distribution d'eau]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[34]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[E37]]></code>
+    <answer><![CDATA[Collecte et traitement des eaux usées]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[35]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[E38]]></code>
+    <answer><![CDATA[Collecte, traitement et élimination des déchets ; récupération]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[36]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[E39]]></code>
+    <answer><![CDATA[Dépollution et autres services de gestion des déchets]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[37]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[F41]]></code>
+    <answer><![CDATA[Construction de bâtiments]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[38]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[F42]]></code>
+    <answer><![CDATA[Génie civil]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[39]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[F43]]></code>
+    <answer><![CDATA[Travaux de construction spécialisés]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[40]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[G45]]></code>
+    <answer><![CDATA[Commerce et réparation d'automobiles et de motocycles]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[41]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[G46]]></code>
+    <answer><![CDATA[Commerce de gros, à l'exception des automobiles et des motocycles]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[42]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[G47]]></code>
+    <answer><![CDATA[Commerce de détail, à l'exception des automobiles et des motocycles]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[43]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[H49]]></code>
+    <answer><![CDATA[Transports terrestres et transport par conduites]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[44]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[H50]]></code>
+    <answer><![CDATA[Transports par eau]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[45]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[H51]]></code>
+    <answer><![CDATA[Transports aériens]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[46]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[H52]]></code>
+    <answer><![CDATA[Entreposage et services auxiliaires des transports]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[47]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[H53]]></code>
+    <answer><![CDATA[Activités de poste et de courrier]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[48]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[I55]]></code>
+    <answer><![CDATA[Hébergement]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[49]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[I56]]></code>
+    <answer><![CDATA[Restauration]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[50]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[J58]]></code>
+    <answer><![CDATA[Édition]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[51]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[J59]]></code>
+    <answer><![CDATA[Production de films cinématographiques, de vidéo et de programmes de télévision ; enregistrement sonore et édition musicale]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[52]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[J60]]></code>
+    <answer><![CDATA[Programmation et diffusion]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[53]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[J61]]></code>
+    <answer><![CDATA[Télécommunications]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[54]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[J62]]></code>
+    <answer><![CDATA[Programmation, conseil et autres activités informatiques]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[55]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[J63]]></code>
+    <answer><![CDATA[Services d'information]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[56]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[K64]]></code>
+    <answer><![CDATA[Activités des services financiers, hors assurance et caisses de retraite]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[57]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[K65]]></code>
+    <answer><![CDATA[Assurance]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[58]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[K66]]></code>
+    <answer><![CDATA[Activités auxiliaires de services financiers et d'assurance]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[59]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[L68]]></code>
+    <answer><![CDATA[Activités immobilières]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[60]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[M69]]></code>
+    <answer><![CDATA[Activités juridiques et comptables]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[61]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[M70]]></code>
+    <answer><![CDATA[Activités des sièges sociaux ; conseil de gestion]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[62]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[M71]]></code>
+    <answer><![CDATA[Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[63]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[M72]]></code>
+    <answer><![CDATA[Recherche-développement scientifique]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[64]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[M73]]></code>
+    <answer><![CDATA[Publicité et études de marché]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[65]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[M74]]></code>
+    <answer><![CDATA[Autres activités spécialisées, scientifiques et techniques]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[66]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[M75]]></code>
+    <answer><![CDATA[Activités vétérinaires]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[67]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[N77]]></code>
+    <answer><![CDATA[Activités de location et location-bail]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[68]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[N78]]></code>
+    <answer><![CDATA[Activités liées à l'emploi]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[69]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[N79]]></code>
+    <answer><![CDATA[Activités des agences de voyage, voyagistes, services de réservation et activités connexes]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[70]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[N80]]></code>
+    <answer><![CDATA[Enquêtes et sécurité]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[71]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[N81]]></code>
+    <answer><![CDATA[Services relatifs aux bâtiments et aménagement paysager]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[72]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[N82]]></code>
+    <answer><![CDATA[Activités administratives et autres activités de soutien aux entreprises]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[73]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[O84]]></code>
+    <answer><![CDATA[Administration publique et défense ; sécurité sociale obligatoire]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[74]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[P85]]></code>
+    <answer><![CDATA[Enseignement]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[75]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[Q86]]></code>
+    <answer><![CDATA[Activités pour la santé humaine]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[76]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[Q87]]></code>
+    <answer><![CDATA[Hébergement médico-social et social]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[77]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[Q88]]></code>
+    <answer><![CDATA[Action sociale sans hébergement]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[78]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[R90]]></code>
+    <answer><![CDATA[Activités créatives, artistiques et de spectacle]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[79]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[R91]]></code>
+    <answer><![CDATA[Bibliothèques, archives, musées et autres activités culturelles]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[80]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[R92]]></code>
+    <answer><![CDATA[Organisation de jeux de hasard et d'argent]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[81]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[R93]]></code>
+    <answer><![CDATA[Activités sportives, récréatives et de loisirs]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[82]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[S94]]></code>
+    <answer><![CDATA[Activités des organisations associatives]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[83]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[S95]]></code>
+    <answer><![CDATA[Réparation d'ordinateurs et de biens personnels et domestiques]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[84]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[S96]]></code>
+    <answer><![CDATA[Autres services personnels]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[85]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[T97]]></code>
+    <answer><![CDATA[Activités des ménages en tant qu'employeurs de personnel domestique]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[86]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[T98]]></code>
+    <answer><![CDATA[Activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[87]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <code><![CDATA[U99]]></code>
+    <answer><![CDATA[Activités des organisations et organismes extraterritoriaux]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[88]]></sortorder>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+  </rows>
+ </answers>
+ <groups>
+  <fields>
+   <fieldname>gid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>group_name</fieldname>
+   <fieldname>group_order</fieldname>
+   <fieldname>description</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>randomization_group</fieldname>
+   <fieldname>grelevance</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <gid><![CDATA[493]]></gid>
+    <sid><![CDATA[82885]]></sid>
+    <group_name><![CDATA[Sélection par catégorie NAF]]></group_name>
+    <group_order><![CDATA[0]]></group_order>
+    <description><![CDATA[]]></description>
+    <language><![CDATA[fr]]></language>
+    <randomization_group><![CDATA[]]></randomization_group>
+    <grelevance><![CDATA[]]></grelevance>
+   </row>
+   <row>
+    <gid><![CDATA[494]]></gid>
+    <sid><![CDATA[82885]]></sid>
+    <group_name><![CDATA[Groupe 2]]></group_name>
+    <group_order><![CDATA[1]]></group_order>
+    <description><![CDATA[]]></description>
+    <language><![CDATA[fr]]></language>
+    <randomization_group><![CDATA[]]></randomization_group>
+    <grelevance><![CDATA[]]></grelevance>
+   </row>
+  </rows>
+ </groups>
+ <questions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[82885]]></sid>
+    <gid><![CDATA[493]]></gid>
+    <type><![CDATA[!]]></type>
+    <title><![CDATA[SECTION]]></title>
+    <question><![CDATA[Choisissez le type de métier]]></question>
+    <preg><![CDATA[]]></preg>
+    <help><![CDATA[]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[82885]]></sid>
+    <gid><![CDATA[493]]></gid>
+    <type><![CDATA[!]]></type>
+    <title><![CDATA[DIVISION]]></title>
+    <question><![CDATA[Choisissez plus précisément
+<script type="text/javascript" charset="utf-8">
+selectFilterByCode(7073,7072);
+</script>]]></question>
+    <preg><![CDATA[]]></preg>
+    <help><![CDATA[]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[82885]]></sid>
+    <gid><![CDATA[494]]></gid>
+    <type><![CDATA[X]]></type>
+    <title><![CDATA[retour]]></title>
+    <question><![CDATA[<p>
+	Vous avez sélectionné:</p>
+<ul>
+	<li>{SECTION.code} ( {SECTION.shown})</li>
+	<li>{DIVISION.code} ( {DIVISION.shown})</li>
+</ul>
+]]></question>
+    <preg><![CDATA[]]></preg>
+    <help><![CDATA[]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[fr]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+  </rows>
+ </questions>
+ <question_attributes>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>attribute</fieldname>
+   <fieldname>value</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <attribute><![CDATA[alphasort]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <attribute><![CDATA[category_separator]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <attribute><![CDATA[dropdown_prefix]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <attribute><![CDATA[dropdown_size]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <attribute><![CDATA[hidden]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <attribute><![CDATA[hide_tip]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <attribute><![CDATA[other_comment_mandatory]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <attribute><![CDATA[other_replace_text]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <attribute><![CDATA[page_break]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <attribute><![CDATA[public_statistics]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <attribute><![CDATA[random_group]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <attribute><![CDATA[random_order]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7072]]></qid>
+    <attribute><![CDATA[scale_export]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <attribute><![CDATA[alphasort]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <attribute><![CDATA[category_separator]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <attribute><![CDATA[dropdown_prefix]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <attribute><![CDATA[dropdown_size]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <attribute><![CDATA[hidden]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <attribute><![CDATA[hide_tip]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <attribute><![CDATA[other_comment_mandatory]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <attribute><![CDATA[other_replace_text]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <attribute><![CDATA[page_break]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <attribute><![CDATA[public_statistics]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <attribute><![CDATA[random_group]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <attribute><![CDATA[random_order]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7073]]></qid>
+    <attribute><![CDATA[scale_export]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[hidden]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[hide_tip]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[page_break]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[random_group]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[time_limit]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[time_limit_action]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[time_limit_countdown_message]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[time_limit_disable_next]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[time_limit_disable_prev]]></attribute>
+    <value><![CDATA[0]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[time_limit_message]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[time_limit_message_delay]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[time_limit_message_style]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[time_limit_timer_style]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[time_limit_warning]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[time_limit_warning_2]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[time_limit_warning_2_display_time]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[time_limit_warning_2_message]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[time_limit_warning_2_style]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[time_limit_warning_display_time]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[time_limit_warning_message]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[7074]]></qid>
+    <attribute><![CDATA[time_limit_warning_style]]></attribute>
+    <value><![CDATA[]]></value>
+   </row>
+  </rows>
+ </question_attributes>
+ <surveys>
+  <fields>
+   <fieldname>sid</fieldname>
+   <fieldname>admin</fieldname>
+   <fieldname>expires</fieldname>
+   <fieldname>startdate</fieldname>
+   <fieldname>adminemail</fieldname>
+   <fieldname>anonymized</fieldname>
+   <fieldname>faxto</fieldname>
+   <fieldname>format</fieldname>
+   <fieldname>savetimings</fieldname>
+   <fieldname>template</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>additional_languages</fieldname>
+   <fieldname>datestamp</fieldname>
+   <fieldname>usecookie</fieldname>
+   <fieldname>allowregister</fieldname>
+   <fieldname>allowsave</fieldname>
+   <fieldname>autonumber_start</fieldname>
+   <fieldname>autoredirect</fieldname>
+   <fieldname>allowprev</fieldname>
+   <fieldname>printanswers</fieldname>
+   <fieldname>ipaddr</fieldname>
+   <fieldname>refurl</fieldname>
+   <fieldname>publicstatistics</fieldname>
+   <fieldname>publicgraphs</fieldname>
+   <fieldname>listpublic</fieldname>
+   <fieldname>htmlemail</fieldname>
+   <fieldname>tokenanswerspersistence</fieldname>
+   <fieldname>assessments</fieldname>
+   <fieldname>usecaptcha</fieldname>
+   <fieldname>usetokens</fieldname>
+   <fieldname>bounce_email</fieldname>
+   <fieldname>attributedescriptions</fieldname>
+   <fieldname>emailresponseto</fieldname>
+   <fieldname>emailnotificationto</fieldname>
+   <fieldname>tokenlength</fieldname>
+   <fieldname>showxquestions</fieldname>
+   <fieldname>showgroupinfo</fieldname>
+   <fieldname>shownoanswer</fieldname>
+   <fieldname>showqnumcode</fieldname>
+   <fieldname>bouncetime</fieldname>
+   <fieldname>bounceprocessing</fieldname>
+   <fieldname>bounceaccounttype</fieldname>
+   <fieldname>bounceaccounthost</fieldname>
+   <fieldname>bounceaccountpass</fieldname>
+   <fieldname>bounceaccountencryption</fieldname>
+   <fieldname>bounceaccountuser</fieldname>
+   <fieldname>showwelcome</fieldname>
+   <fieldname>showprogress</fieldname>
+   <fieldname>allowjumps</fieldname>
+   <fieldname>navigationdelay</fieldname>
+   <fieldname>nokeyboard</fieldname>
+   <fieldname>alloweditaftercompletion</fieldname>
+   <fieldname>googleanalyticsstyle</fieldname>
+   <fieldname>googleanalyticsapikey</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <sid><![CDATA[82885]]></sid>
+    <admin><![CDATA[Sondages en ligne]]></admin>
+    <expires><![CDATA[]]></expires>
+    <startdate><![CDATA[]]></startdate>
+    <adminemail><![CDATA[contact@sondages.pro]]></adminemail>
+    <anonymized><![CDATA[N]]></anonymized>
+    <faxto><![CDATA[]]></faxto>
+    <format><![CDATA[G]]></format>
+    <savetimings><![CDATA[N]]></savetimings>
+    <template><![CDATA[select_filter_citronade]]></template>
+    <language><![CDATA[fr]]></language>
+    <additional_languages><![CDATA[]]></additional_languages>
+    <datestamp><![CDATA[N]]></datestamp>
+    <usecookie><![CDATA[N]]></usecookie>
+    <allowregister><![CDATA[N]]></allowregister>
+    <allowsave><![CDATA[Y]]></allowsave>
+    <autonumber_start><![CDATA[0]]></autonumber_start>
+    <autoredirect><![CDATA[N]]></autoredirect>
+    <allowprev><![CDATA[Y]]></allowprev>
+    <printanswers><![CDATA[N]]></printanswers>
+    <ipaddr><![CDATA[N]]></ipaddr>
+    <refurl><![CDATA[N]]></refurl>
+    <publicstatistics><![CDATA[N]]></publicstatistics>
+    <publicgraphs><![CDATA[N]]></publicgraphs>
+    <listpublic><![CDATA[N]]></listpublic>
+    <htmlemail><![CDATA[Y]]></htmlemail>
+    <tokenanswerspersistence><![CDATA[N]]></tokenanswerspersistence>
+    <assessments><![CDATA[N]]></assessments>
+    <usecaptcha><![CDATA[D]]></usecaptcha>
+    <usetokens><![CDATA[N]]></usetokens>
+    <bounce_email><![CDATA[noreply@sondages.pro]]></bounce_email>
+    <attributedescriptions><![CDATA[]]></attributedescriptions>
+    <emailresponseto><![CDATA[]]></emailresponseto>
+    <emailnotificationto><![CDATA[]]></emailnotificationto>
+    <tokenlength><![CDATA[15]]></tokenlength>
+    <showxquestions><![CDATA[Y]]></showxquestions>
+    <showgroupinfo><![CDATA[B]]></showgroupinfo>
+    <shownoanswer><![CDATA[Y]]></shownoanswer>
+    <showqnumcode><![CDATA[X]]></showqnumcode>
+    <bouncetime><![CDATA[]]></bouncetime>
+    <bounceprocessing><![CDATA[N]]></bounceprocessing>
+    <bounceaccounttype><![CDATA[]]></bounceaccounttype>
+    <bounceaccounthost><![CDATA[]]></bounceaccounthost>
+    <bounceaccountpass><![CDATA[]]></bounceaccountpass>
+    <bounceaccountencryption><![CDATA[]]></bounceaccountencryption>
+    <bounceaccountuser><![CDATA[]]></bounceaccountuser>
+    <showwelcome><![CDATA[Y]]></showwelcome>
+    <showprogress><![CDATA[Y]]></showprogress>
+    <allowjumps><![CDATA[N]]></allowjumps>
+    <navigationdelay><![CDATA[0]]></navigationdelay>
+    <nokeyboard><![CDATA[N]]></nokeyboard>
+    <alloweditaftercompletion><![CDATA[N]]></alloweditaftercompletion>
+    <googleanalyticsstyle><![CDATA[0]]></googleanalyticsstyle>
+    <googleanalyticsapikey><![CDATA[]]></googleanalyticsapikey>
+   </row>
+  </rows>
+ </surveys>
+ <surveys_languagesettings>
+  <fields>
+   <fieldname>surveyls_survey_id</fieldname>
+   <fieldname>surveyls_language</fieldname>
+   <fieldname>surveyls_title</fieldname>
+   <fieldname>surveyls_description</fieldname>
+   <fieldname>surveyls_welcometext</fieldname>
+   <fieldname>surveyls_endtext</fieldname>
+   <fieldname>surveyls_url</fieldname>
+   <fieldname>surveyls_urldescription</fieldname>
+   <fieldname>surveyls_email_invite_subj</fieldname>
+   <fieldname>surveyls_email_invite</fieldname>
+   <fieldname>surveyls_email_remind_subj</fieldname>
+   <fieldname>surveyls_email_remind</fieldname>
+   <fieldname>surveyls_email_register_subj</fieldname>
+   <fieldname>surveyls_email_register</fieldname>
+   <fieldname>surveyls_email_confirm_subj</fieldname>
+   <fieldname>surveyls_email_confirm</fieldname>
+   <fieldname>surveyls_dateformat</fieldname>
+   <fieldname>surveyls_numberformat</fieldname>
+   <fieldname>email_admin_notification_subj</fieldname>
+   <fieldname>email_admin_notification</fieldname>
+   <fieldname>email_admin_responses_subj</fieldname>
+   <fieldname>email_admin_responses</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <surveyls_survey_id><![CDATA[82885]]></surveyls_survey_id>
+    <surveyls_language><![CDATA[fr]]></surveyls_language>
+    <surveyls_title><![CDATA[Filtre automatique entre 2 questions à réponses uniques]]></surveyls_title>
+    <surveyls_description><![CDATA[Filtrer une question de type Liste en menu déroulant en fonction du choix effectué sur une autre question List (dropdown) .]]></surveyls_description>
+    <surveyls_welcometext><![CDATA[<p>Ce questionnaire démontre la possibilité d'effectuer un filtre sur une liste en menu déroulant en fonction d'un choix fait sur une autre liste en menu déroulant.</p>
+<p>C'est un questionnaire de démonstration publié pour <a href="http://www.sondages.pro">Sondages Pro : vos enquêtes sur internet</a></p>
+<p>Le script est sous licence MIT, vous pouvez donc l'utiliser dans vos questionnaires. Si vous le modifiez, l'adapter, le distribuer, vous devez laisser la mention du copyright initial dans la source du script</p>
+]]></surveyls_welcometext>
+    <surveyls_endtext><![CDATA[<p>Vous pouvez télécharger le script <a href="http://demonstration.sondages.pro/upload/templates/select_filter_citronade/selectfilter.js">selectfilter.js</a> . Merci de ne pas utiliser ce lien directement dans vos questionnaire mais de l'inclure sur votre serveur.</p><p>Pour vous aider à la mise en place de questionnaire avec LimeSurvey pour ce script ou pour d'autres solutions, <a href="http://www.sondages.pro/contact.html">n'hésitez pas à nous contacter</a><p>]]></surveyls_endtext>
+    <surveyls_url><![CDATA[]]></surveyls_url>
+    <surveyls_urldescription><![CDATA[]]></surveyls_urldescription>
+    <surveyls_email_invite_subj><![CDATA[Invitation à participer à un questionnaire]]></surveyls_email_invite_subj>
+    <surveyls_email_invite><![CDATA[Dear {FIRSTNAME},<br /><br />you have been invited to participate in a survey.<br /><br />The survey is titled:<br />"{SURVEYNAME}"<br /><br />"{SURVEYDESCRIPTION}"<br /><br />To participate, please click on the link below.<br /><br />Sincerely,<br /><br />{ADMINNAME} ({ADMINEMAIL})<br /><br />----------------------------------------------<br />Click here to do the survey:<br />{SURVEYURL}<br /><br />If you do not want to participate in this survey and don't want to receive any more invitations please click the following link:<br />{OPTOUTURL}]]></surveyls_email_invite>
+    <surveyls_email_remind_subj><![CDATA[Rappel pour participer à un questionnaire]]></surveyls_email_remind_subj>
+    <surveyls_email_remind><![CDATA[Dear {FIRSTNAME},<br /><br />Recently we invited you to participate in a survey.<br /><br />We note that you have not yet completed the survey, and wish to remind you that the survey is still available should you wish to take part.<br /><br />The survey is titled:<br />"{SURVEYNAME}"<br /><br />"{SURVEYDESCRIPTION}"<br /><br />To participate, please click on the link below.<br /><br />Sincerely,<br /><br />{ADMINNAME} ({ADMINEMAIL})<br /><br />----------------------------------------------<br />Click here to do the survey:<br />{SURVEYURL}<br /><br />If you do not want to participate in this survey and don't want to receive any more invitations please click the following link:<br />{OPTOUTURL}]]></surveyls_email_remind>
+    <surveyls_email_register_subj><![CDATA[Confirmation d'enregistrement au questionnaire]]></surveyls_email_register_subj>
+    <surveyls_email_register><![CDATA[Dear {FIRSTNAME},<br /><br />You, or someone using your email address, have registered to participate in an online survey titled {SURVEYNAME}.<br /><br />To complete this survey, click on the following URL:<br /><br />{SURVEYURL}<br /><br />If you have any questions about this survey, or if you did not register to participate and believe this email is in error, please contact {ADMINNAME} at {ADMINEMAIL}.]]></surveyls_email_register>
+    <surveyls_email_confirm_subj><![CDATA[Confirmation de votre participation à notre questionnaire]]></surveyls_email_confirm_subj>
+    <surveyls_email_confirm><![CDATA[Dear {FIRSTNAME},<br /><br />this email is to confirm that you have completed the survey titled {SURVEYNAME} and your response has been saved. Thank you for participating.<br /><br />If you have any further questions about this email, please contact {ADMINNAME} on {ADMINEMAIL}.<br /><br />Sincerely,<br /><br />{ADMINNAME}]]></surveyls_email_confirm>
+    <surveyls_dateformat><![CDATA[1]]></surveyls_dateformat>
+    <surveyls_numberformat><![CDATA[1]]></surveyls_numberformat>
+    <email_admin_notification_subj><![CDATA[Soumission de réponse pour le questionnaire {SURVEYNAME}]]></email_admin_notification_subj>
+    <email_admin_notification><![CDATA[Hello,<br /><br />A new response was submitted for your survey '{SURVEYNAME}'.<br /><br />Click the following link to reload the survey:<br />{RELOADURL}<br /><br />Click the following link to see the individual response:<br />{VIEWRESPONSEURL}<br /><br />Click the following link to edit the individual response:<br />{EDITRESPONSEURL}<br /><br />View statistics by clicking here:<br />{STATISTICSURL}]]></email_admin_notification>
+    <email_admin_responses_subj><![CDATA[Soumission de réponse pour le questionnaire {SURVEYNAME} avec résultats]]></email_admin_responses_subj>
+    <email_admin_responses><![CDATA[<style type="text/css">
+                                                .printouttable {
+                                                  margin:1em auto;
+                                                }
+                                                .printouttable th {
+                                                  text-align: center;
+                                                }
+                                                .printouttable td {
+                                                  border-color: #ddf #ddf #ddf #ddf;
+                                                  border-style: solid;
+                                                  border-width: 1px;
+                                                  padding:0.1em 1em 0.1em 0.5em;
+                                                }
+
+                                                .printouttable td:first-child {
+                                                  font-weight: 700;
+                                                  text-align: right;
+                                                  padding-right: 5px;
+                                                  padding-left: 5px;
+
+                                                }
+                                                .printouttable .printanswersquestion td{
+                                                  background-color:#F7F8FF;
+                                                }
+
+                                                .printouttable .printanswersquestionhead td{
+                                                  text-align: left;
+                                                  background-color:#ddf;
+                                                }
+
+                                                .printouttable .printanswersgroup td{
+                                                  text-align: center;        
+                                                  font-weight:bold;
+                                                  padding-top:1em;
+                                                }
+                                                </style>Hello,<br /><br />A new response was submitted for your survey '{SURVEYNAME}'.<br /><br />Click the following link to reload the survey:<br />{RELOADURL}<br /><br />Click the following link to see the individual response:<br />{VIEWRESPONSEURL}<br /><br />Click the following link to edit the individual response:<br />{EDITRESPONSEURL}<br /><br />View statistics by clicking here:<br />{STATISTICSURL}<br /><br /><br />The following answers were given by the participant:<br />{ANSWERTABLE}]]></email_admin_responses>
+   </row>
+  </rows>
+ </surveys_languagesettings>
+</document>
